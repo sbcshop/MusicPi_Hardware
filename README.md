@@ -1,4 +1,7 @@
 # MusicPi_Hardware
+<img src="https://github.com/sbcshop/MusicPi_Software/blob/main/images/musicPi_banner.png">
+
+The Raspberry Pi Pico is a fantastic microcontroller with boundless possibilities, but like any technology, it has its limitations. The MusicPi pico audio expansion board is designed to complement your Raspberry Pi Pico and unlock its full potential, especially when it comes to audio applications.
 
 This GitHub repository contains hardware design files for MusicPi.
 
